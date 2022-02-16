@@ -10,10 +10,6 @@
 - 🖥️ Student at Institut Teknologi Sepuluh Nopember
 - 👯 I’m looking to collaborate on Backend Development for open source/commercial project
 - 🔭 Check out my projects [here](https://ryanfernaldy.vercel.app/)
-- 📫 How to reach me: 
-  
-  
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanf10&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ryanf10's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanf10&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
