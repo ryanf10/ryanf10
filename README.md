@@ -7,7 +7,7 @@
 </a>
 
 ###
-- 🖥️ Student at Institut Teknologi Sepuluh Nopember
+- 🖥️ Fresh Graduate of Informatics Engineering in Institut Teknologi Sepuluh Nopember Surabaya
 - 👯 I’m looking to collaborate on Backend Development for open source/commercial project
 - 🔭 Check out my projects [here](https://ryanfernaldy.vercel.app/)
 
